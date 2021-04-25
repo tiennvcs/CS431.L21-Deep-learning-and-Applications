@@ -1,1 +1,1 @@
-# CS431.L21-Deep-learning-and-Applications
+# CS431.L21 Deep learning and Applications
